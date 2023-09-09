@@ -1,0 +1,18 @@
+[
+   {
+      "FeatureID": 116,
+      "FeatureImage": "feature-1.webp"
+   },
+   {
+      "FeatureID": 117,
+      "FeatureImage": "feature-2.jpg"
+   },
+   {
+      "FeatureID": 118,
+      "FeatureImage": "feature-3.jpg"
+   },
+   {
+      "FeatureID": 119,
+      "FeatureImage": "feature-4.webp"
+   }
+]

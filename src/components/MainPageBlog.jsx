@@ -1,6 +1,5 @@
 import Link from "next/link"
-//import Image from "next/image"
-
+// Data API
 import blogData from "../assets/BlogData.json"
 
 export default function MainPageBlog() {
@@ -15,7 +14,7 @@ export default function MainPageBlog() {
                </div>
                <div className="row">
                   {
-                     blogData.map((blogdata) => (
+                     blogData && blogData.map((blogdata) => (
                         <div className="col-md-6" key={blogdata.BlogID}>
                            <div className="blog-item">
                               <div className="blog-img">

@@ -1,0 +1,26 @@
+[
+   {
+      "BestID": 121,
+      "BestImage": "feature-sample1.jpg",
+      "BestTitle": "셀프봄동달래무침",
+      "BestContent": "겨울이 지나 이른 봄에 나오는 달고 아삭한 봄동과 달래를 시화당의 특제 양념에 바로 버무려 먹는 셀프봄동달래무침, 자연의 싱그러운 맛 이에요."
+   },
+   {
+      "BestID": 122,
+      "BestImage": "feature-sample2.jpg",
+      "BestTitle": "채소계란찜",
+      "BestContent": "오븐으로 쪄서 더욱 부드럽고 폭신한 채소 계란찜. 다진 파와 당근 등 채소가 들어가 있어 밥에 쓱쓱 비벼 머긍면 부드럽게 입안에서 스르르 녹을 거에요."
+   },
+   {
+      "BestID": 123,
+      "BestImage": "feature-sample3.jpg",
+      "BestTitle": "도라지오이무침",
+      "BestContent": "매콤한 양념에 향긋한 도라지와 오이를 무쳐 맛있고 아삭한 하모니. 시원한 오이와 꼬들꼬들한 도라지로 식감을 살려줘서 입맛 당기는 도라이 무침이에요."
+   },
+   {
+      "BestID": 124,
+      "BestImage": "feature-sample4.jpg",
+      "BestTitle": "수제계란말이",
+      "BestContent": "양파, 대파, 당근을 잘게 썰어 두툼하게 부치고 풍성한 식감으로 기본 반찬으로도 좋고, 식어도 맛이 변하지 않아 도시락 반찬으로도 추천드려요."
+   }
+]

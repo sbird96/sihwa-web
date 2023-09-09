@@ -1,13 +1,17 @@
 import Head from 'next/head'
-import Image from 'next/image'
 import { Inter } from 'next/font/google'
 import styles from '@/styles/Home.module.css'
 
 import Notice from '@/components/Notice'
-import PageTop from '@/components/PageTop'
-import PageBottom from '@/components/PageBottom'
+import PageTop from '@/components/PageTop';
+/*
+import MainPageSubscription from '@/components/MainPageSubscription'
+import MainPageBest from '@/components/MainPageBest'
+import MainPageCook from '@/components/MainPageCook'
+import MainPageGoods from '@/components/MainPageGoods'
 import MainPageBlog from '@/components/MainPageBlog'
-
+import PageBottom from '@/components/PageBottom'
+*/
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
@@ -23,8 +27,16 @@ export default function Home() {
 
       <Notice />
       <PageTop />
-      <MainPageBlog />
-      <PageBottom />
+      <div><p /><p /><br /><p /><br /><p /></div>
+
+
+
+      {/*      <MainPageSubscription />
+      <MainPageBest />
+      <MainPageCook />
+      <MainPageGoods />
+  <MainPageBlog />
+      <PageBottom />*/}
     </>
   )
 }

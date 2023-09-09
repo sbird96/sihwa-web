@@ -48,7 +48,7 @@ export default function PageBottom() {
             <div className="copyright">
                <div className="container">
                   <p>Copyright {NowYear} <span className="owncomany">시화당</span>, All Right Reserved.</p>
-                  <p><span className="designby mx-3">Designed by Accendus S&amp;T Ver 0.1.0</span></p>
+                  <p><span className="designby mx-3">Designed by Accendus S&amp;T Ver 0.1.0 (Next.js 13.4 / React 18.2 / Bootstrap 5.3)</span></p>
                </div>
             </div>
          </div>
