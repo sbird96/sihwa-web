@@ -1,0 +1,32 @@
+[
+  {
+    "CarouselID": 216,
+    "CarouselTitle": "<span>詩畵堂•시화당</span> 사계절 제철요리를",
+    "CarouselSub": "시화당 정기구독으로 집에서 편하게 다양한 음식을 받아보실수 있습니다.",
+    "CarouselImage": "carousel-1.jpg",
+    "CarouselButtonAitem": "자세히 보기",
+    "CarouselButtonAurl": "",
+    "CarouselButtonBitem": "정기구독 하기",
+    "CarouselButtonBurl": ""
+  },
+  {
+    "CarouselID": 217,
+    "CarouselTitle": "<span>詩畵堂•시화당</span> 김재희의 사계절 찬방",
+    "CarouselSub": "신세계백화점 본점, 타임스퀘어점, 강남점에서도 만나 보실 수 있습니다.",
+    "CarouselImage": "carousel-2.jpg",
+    "CarouselButtonAitem": "판매장 안내",
+    "CarouselButtonAurl": "",
+    "CarouselButtonBitem": "정기구독 하기",
+    "CarouselButtonBurl": ""
+  },
+  {
+    "CarouselID": 218,
+    "CarouselTitle": "<span>詩畵堂•시화당</span> 사계절 제철요리를",
+    "CarouselSub": "시화당 정기구독으로 집에서 편하게 다양한 음식을 받아보실수 있습니다.",
+    "CarouselImage": "carousel-3.jpg",
+    "CarouselButtonAitem": "ssg.com",
+    "CarouselButtonAurl": "",
+    "CarouselButtonBitem": "kulry.com",
+    "CarouselButtonBurl": ""
+  }
+]
